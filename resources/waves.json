@@ -1,0 +1,167 @@
+﻿{
+  "Wave1": {
+    "AlienSpawnChancePairs": {
+      "Streuner": 90,
+      "Lordakia": 10
+    },
+    "RemainingAliens": 30,
+    "AlienSpawnCooldown": 1.5
+  },
+  "Wave2": {
+    "AlienSpawnChancePairs": {
+      "Streuner": 50,
+      "Lordakia": 40,
+      "Boss_Streuner": 10
+    },
+    "RemainingAliens": 30,
+    "AlienSpawnCooldown": 1.5
+  },
+  "Wave3": {
+    "AlienSpawnChancePairs": {
+      "Streuner": 50,
+      "Lordakia": 20,
+      "Boss_Lordakia": 16,
+      "Boss_Streuner": 14
+    },
+    "RemainingAliens": 30,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave4": {
+    "AlienSpawnChancePairs": {
+      "Lordakia": 50,
+      "Boss_Streuner": 40,
+      "Boss_Lordakia": 10
+    },
+    "RemainingAliens": 35,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave5": {
+    "AlienSpawnChancePairs": {
+      "Boss_Lordakia": 90,
+      "Devolarium": 10
+    },
+    "RemainingAliens": 30,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave6": {
+    "AlienSpawnChancePairs": {
+      "Devolarium": 100
+    },
+    "RemainingAliens": 5,
+    "AlienSpawnCooldown": 3
+  },
+  "Wave7": {
+    "AlienSpawnChancePairs": {
+      "Devolarium": 90,
+      "Kristallin": 10
+    },
+    "RemainingAliens": 30,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave8": {
+    "AlienSpawnChancePairs": {
+      "Streuner": 17,
+      "Lordakia": 16,
+      "Boss_Lordakia": 15,
+      "Boss_Streuner": 14,
+      "Devolarium": 13,
+      "Kristallin": 12
+    },
+    "RemainingAliens": 30,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave9": {
+    "AlienSpawnChancePairs": {
+      "Kristallin": 70,
+      "Devolarium": 30
+    },
+    "RemainingAliens": 30,
+    "AlienSpawnCooldown": 0.5
+  },
+  "Wave10": {
+    "AlienSpawnChancePairs": {
+      "Kristallin": 90,
+      "Lordakium": 10
+    },
+    "RemainingAliens": 30,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave11": {
+    "AlienSpawnChancePairs": {
+      "Kristallin": 80,
+      "Boss_Kristallin": 20
+    },
+    "RemainingAliens": 50,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave12": {
+    "AlienSpawnChancePairs": {
+      "Boss_Kristallin": 60,
+      "Kristallon": 40
+    },
+    "RemainingAliens": 30,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave13": {
+    "AlienSpawnChancePairs": {
+      "Boss_Streuner": 26,
+      "Boss_Lordakia": 25,
+      "Boss_Kristallin": 24,
+      "Boss_Lordakium": 23,
+      "Kristallon": 2
+    },
+    "RemainingAliens": 50,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave14": {
+    "AlienSpawnChancePairs": {
+      "Kristallin": 25,
+      "Boss_Kristallin": 25,
+      "Uber_Kristallin": 25,
+      "Kristallon": 25
+    },
+    "RemainingAliens": 100,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave15": {
+    "AlienSpawnChancePairs": {
+      "Uber_Kristallin": 80,
+      "Uber_Kristallon": 20
+    },
+    "RemainingAliens": 30,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave16": {
+    "AlienSpawnChancePairs": {
+      "Uber_Kristallin": 80,
+      "Uber_Kristallon": 20
+    },
+    "RemainingAliens": 50,
+    "AlienSpawnCooldown": 0.5
+  },
+  "Wave17": {
+    "AlienSpawnChancePairs": {
+      "Kucurbium": 80,
+      "Uber_Kristallon": 20
+    },
+    "RemainingAliens": 50,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave18": {
+    "AlienSpawnChancePairs": {
+      "Kucurbium": 80,
+      "Uber_Kristallon": 11,
+      "Boss_Kucurbium": 9
+    },
+    "RemainingAliens": 50,
+    "AlienSpawnCooldown": 1
+  },
+  "Wave19": {
+    "AlienSpawnChancePairs": {
+      "Kucurbium": 80,
+      "Boss_Kucurbium": 20
+    },
+    "RemainingAliens": 20,
+    "AlienSpawnCooldown": 1
+  }
+}
